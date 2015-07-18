@@ -46,9 +46,6 @@
       "json"
     ]
   },
-  "peerDependencies": {
-    "react": ">=0.12.2"
-  },
   "devDependencies": {
     "browser-sync": "^1.5.2",
     "gulp": "^3.8.6",
